@@ -1,5 +1,6 @@
 cv2
 numpy
-HandTrackingModule
+mediapipe
+math
 time
 autopy
