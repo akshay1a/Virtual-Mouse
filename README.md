@@ -16,7 +16,9 @@ Virtual Mouse made with the help of Python Autopy and Computer Vision to control
   1. Moving Mode
   2. Clicking Mode
 
+
 **Note : Module File Should Be In Same Folder With The File You Are Working On.**
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
